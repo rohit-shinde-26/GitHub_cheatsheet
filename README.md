@@ -38,11 +38,7 @@ If you want to add all files in your project to the staging area, you can use a 
 ```
 git add .
 ```
-## How to add only certain files to the staging area in Git
-With the asterisk in the command below, you can add all files starting with 'fil' in the staging area.
-```
-git add .
-```
+
 ## How to check a repository's status in Git:
 This command will show the status of the current repository including staged, unstaged, and untracked files.
 ```
